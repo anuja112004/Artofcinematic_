@@ -1,0 +1,11 @@
+.custom-hover {
+  transition: border 0.3s ease;
+}
+
+.custom-hover:hover {
+  border: 2px solid rgb(28, 28, 28);
+  border-radius: 10px; /* Optional */
+}
+.ph{
+    text-decoration: none;
+}
